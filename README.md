@@ -16,6 +16,7 @@ We study three obstacles of the expansion of contract rice farming in the Mekong
   + heatMapCF.R
   + timeSeriesGroupPlots.R
   
-  ### If you have any questions, please email to Hung at hung.nguyenkhanh@uon.edu.au
   
-  # THANK YOU FOR READING #
+### If you have any questions, please email to Hung at hung.nguyenkhanh@uon.edu.au
+  
+# THANK YOU FOR READING #
